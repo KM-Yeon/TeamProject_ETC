@@ -1,2 +1,2 @@
 # TeamProject_ETC
-- Dacon 
+- Dacon Challenge
